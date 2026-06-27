@@ -1,6 +1,12 @@
 {
   "jobs": [],
-  "categories": ["Engineering", "Design", "Marketing", "Sales", "Support", "Other"],
+  "categories": [
+    "Engineering",
+    "Design",
+    "Marketing",
+    "Support",
+    "Other"
+  ],
   "settings": {
     "whatsappNumber": ""
   }
