@@ -1,12 +1,13 @@
 {
   "jobs": [],
   "categories": [
-    "Engineering",
     "Design",
+    "Engineering",
+    "IT",
     "Marketing",
+    "Other",
     "Sales",
-    "Support",
-    "Other"
+    "Support"
   ],
   "settings": {
     "whatsappNumber": "918247409982"
